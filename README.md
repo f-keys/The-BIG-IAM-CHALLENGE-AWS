@@ -1,1 +1,2 @@
 # The-BIG-IAM-CHALLENGE-AWS
+The Big IAM Challenge is an immersive cybersecurity experience designed to test your expertise in Identity and Access Management (IAM) security in cloud environments. The challenge simulates real-world scenarios where misconfigured IAM policies and permissions create vulnerabilities. Your goal? To uncover these weak points, exploit them ethically, and demonstrate how attackers can leverage them to escalate privileges or gain unauthorized access.
